@@ -2,13 +2,10 @@
 main:
   - title: "博客"
     url: /blog/
-
   - title: "剪辑"
     url: /clips/
-	
   - title: "分类"
     url: /categories/
-
   - title: "标签"
     url: /tags/
 
