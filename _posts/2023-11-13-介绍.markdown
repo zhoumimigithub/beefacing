@@ -1,11 +1,10 @@
 --- 
-title: "视频剪辑副业介绍"
+title: "开始学习jekyll博客的记录"
 wordpress_id: 1
 wordpress_url: http://wsria.com/?p=1
-date: 2023-11-21 12:0:0 +08:00
-categories: 剪辑
+date: 2023-11-13 18:24:46 +08:00
+categories: 日记
 tags: 
- - 介绍
+ - 日记
 ---
 开始学习。
-
