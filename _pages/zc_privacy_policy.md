@@ -1,6 +1,6 @@
 ---
-layout: splash
 permalink: /zc_privacy_policy
+---
 
 《 众创轻量版App 隐私政策》
 
